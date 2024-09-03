@@ -10,4 +10,5 @@ int main()
 
     randomNum=(rand() % 100) + 1;
     printf("%d",randomNum);
+    return 0;
 }

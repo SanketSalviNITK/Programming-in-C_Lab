@@ -32,5 +32,6 @@ int main()
 
         printf("Sorry, you lost. The correct age was %d\n",age);
     }
+
     return 0;
 }
